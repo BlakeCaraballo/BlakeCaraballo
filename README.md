@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @BlakeCaraballo
 - 👀 I’m looking for full stack developer roles!
 - 🌱 I have a computer science degree from Georgia State University!
-- 💞️ I’m looking to collaborate on any projects where i can apply what i am learning in the classroom to real world applications.
+- 💞️ I’m looking to collaborate on any projects where i can learn new frameworks and hone my skills!
 - 📫 How to reach me -->blakecaraballo1@gmail.com
 
 <!---
